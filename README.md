@@ -50,8 +50,9 @@ In this project, I was involved in predicting the stock chart - whether the pric
 |7|	ADA Boost|	0.489362|	0.409026|	0.307692|	0.460494|	0.112277|
 |8|	Naive Bayes|	0.439716|	0.428419|	0.590674|	0.505864|	0.002187|
 
---------------------------------------------------------------------------------------------------------------------------
-# Conclusions
+-------------
+
+# Conclusion
 
 *After looking at the results of the models, one can realise that the models are simply guessing whether the price will rise tomorrow or not. This once again confirms that predicting the price of a stock by machine learning is quite difficult. Such algorithms are used in trading bots, and they cost exorbitant amounts of money.*
 *It's the same with cryptocurrencies. The price itself is influenced not by the usual exchange indicators, but by many different factors, such as the words of regulators in different countries, the presence of wars/cataclysms or emergencies. It is also worth considering that there is such a story as "Pump" of a certain currency/bond, as it happened recently with GameStop*
